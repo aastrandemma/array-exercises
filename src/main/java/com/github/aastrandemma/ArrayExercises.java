@@ -4,5 +4,6 @@ public class ArrayExercises {
     public static void main( String[] args ) {
         ArrayExerciseOneToFour.getArrayExerciseOneToFour();
         ArrayExerciseFiveToSix.getArrayExerciseFiveToSix();
+        ArrayExerciseSeven.getArrayExerciseSeven();
     }
 }
