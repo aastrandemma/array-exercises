@@ -20,6 +20,7 @@ public class ArrayExerciseOneToFour {
         return the index of an element in the array. If the element doesn’t exist
         your method should return -1 as value. Expected output: Index position of number 5 is: 2. */
         int[] numbers = {11, 4500, 39, 157, 326};
+        Arrays.sort(numbers);
         int findIndex = 39;
         int index = indexOf(numbers, findIndex);
 
